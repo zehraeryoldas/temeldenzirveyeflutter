@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739461998978",
+    "project_id": "flutter-temeldenzirveye",
+    "storage_bucket": "flutter-temeldenzirveye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739461998978:android:2c03e6f2743ca954eb079b",
+        "android_client_info": {
+          "package_name": "com.example.temeldenzirveyeflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739461998978-0hnrbutlsjocqp21f3ra6371nlhnv51r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH6hSEowKV2NmGu0ih-RVlMBuPet_ZF3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739461998978-0hnrbutlsjocqp21f3ra6371nlhnv51r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
